@@ -1,6 +1,6 @@
 ### Hi there, I'm [Preet][website] 👋
 
-## I am a BI Analyst, part-time coder, full-time dancer and gamer:
+## I am a BI Analyst, part-time coder, full-time dancer and gamer
 
 <!-- - 🔭 I’m currently working on ... -->
 - 📚 I’m currently learning Machine Learning using Python
@@ -18,11 +18,12 @@
 [<img align="left" alt="preetparmar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />][github]
 [<img align="left" alt="prt_prmr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="cPreetParmar's Github Stats" src="https://github-readme-stats.preetparmar.vercel.app/api?username=preetparmar&show_icons=true&hide_border=true" />
+  <img align="left" alt="PreetParmar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=preetparmar&show_icons=true&hide_border=true" />
 
 </details>
 
