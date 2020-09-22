@@ -19,7 +19,7 @@
 [<img align="left" alt="prt_prmr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<br/>
+<!-- <br/>
 <br/>
 
 <details>
@@ -27,7 +27,7 @@
 
   <img align="left" alt="PreetParmar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=preetparmar&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://preetparmar.github.io/
 [instagram]: https://www.instagram.com/prt_prmr/
