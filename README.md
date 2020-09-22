@@ -2,13 +2,7 @@
 
 ## I am a BI Analyst, part-time coder, full-time dancer and gamer
 
-<!-- - 🔭 I’m currently working on ... -->
 - 📚 I’m currently learning Machine Learning using Python
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with maths behind machine learning -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📧 How to reach me: preetparmar@outlook.com -->
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love to dance and play video games 🎮
 
 ### Connect with me:
