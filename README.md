@@ -18,11 +18,12 @@
 [<img align="left" alt="preetparmar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />][github]
 [<img align="left" alt="prt_prmr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<br/>
 <br/>
 
 <details>
-  <!-- <summary>:zap: Github Stats</summary> -->
-  # Github Stats:
+  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="PreetParmar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=preetparmar&show_icons=true&hide_border=true" />
 
