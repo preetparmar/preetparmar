@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Preet][website] 👋
 
 <!--
 **preetparmar/preetparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://preetparmar.github.io/
+[instagram]: https://www.instagram.com/prt_prmr/
+[linkedin]: https://www.linkedin.com/in/preetparmar
+[github]: https://github.com/preetparmar
