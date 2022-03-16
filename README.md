@@ -23,7 +23,7 @@
 
 </details> -->
 
-[website]: https://preetparmar.github.io/
+[website]: https://preetparmar.com/
 [instagram]: https://www.instagram.com/prt_prmr/
 [linkedin]: https://www.linkedin.com/in/preetparmar
 [github]: https://github.com/preetparmar
